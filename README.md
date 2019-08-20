@@ -7,4 +7,4 @@ Van Halen Fan Site
 
 Address:
 
-https://hungry-neumann-3f104d.netlify.com/
+https://van-halen.netlify.com
