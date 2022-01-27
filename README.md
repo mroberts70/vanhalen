@@ -7,4 +7,6 @@ Van Halen Fan Site
 
 Address:
 
-https://van-halen.netlify.com
+On GitHub: https://mroberts70.github.io/vanhalen/
+
+On Netlify: https://van-halen.netlify.com
